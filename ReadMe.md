@@ -19,3 +19,7 @@ Technologies used in the project:
 
 - CSS
 - Javascript
+
+<h2>👨‍💻 Try it Out Yourself</h2>
+
+<a href="https://spawn9986.github.io/background-generator/">Live Demo</a>
